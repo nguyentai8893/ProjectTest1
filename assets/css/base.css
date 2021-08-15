@@ -1,0 +1,29 @@
+
+
+:root{
+    --white-color:#FFF;
+    --text-color:#333;
+    --primary-color:#f65e39;
+    --header-height:80px;
+    --slider-height:290px;
+
+}
+*{
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+@keyframes FadeIn{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1hi;
+    }
+}
